@@ -68,7 +68,7 @@ The API will be accessible at `http://localhost:3030`.
 
 ## Contributors
 
-- [Your Name](https://github.com/your-username)
+- Chirag Singh
 
 ## License
 
